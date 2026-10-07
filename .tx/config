@@ -1,7 +1,7 @@
 [main]
-host = https://www.transifex.com
+host = https://app.transifex.com
 
-[o:teclib:p:glpi-project-plugin-advancedplanning:r:advancedplanning-pot]
+[o:froozeify:p:glpi_advancedplanning:r:mreporting]
 file_filter = locales/<lang>.po
 source_file = locales/advancedplanning.pot
 source_lang = en
